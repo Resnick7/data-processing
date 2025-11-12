@@ -1,4 +1,4 @@
-# 🧾 **Proceso ETL y análisis de datos de videojuegos en Databricks**
+# **Proceso ETL y análisis de datos de videojuegos en Databricks**
 
 ## **Introducción**
 
